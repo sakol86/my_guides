@@ -97,8 +97,8 @@
 
 
 `5. Настройка маскировки(Vless):`
+![image](https://github.com/sakol86/my_guides/assets/86907205/206b1df4-ba65-469a-8d00-01cd8fc27a20)
 
-  [скрин vl4](https://downloader.disk.yandex.ru/preview/c2e40ca6bfd6122a94164f4aa9584999f111b4a2bc2c1c11ba6af8645b281e85/662cf995/HlnUSckG2n_UPColvw_7xyoeQ_yhELpCREq4Nyw4cBUlqgXX41-O8WVMM5j_TBFBh1iMx91DkwNNQ414uxAsGw%3D%3D?uid=0&filename=vl4%20%282%29.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
 
  `Примечание` - любое название;
 `Протокол` - "vless",
