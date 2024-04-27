@@ -13,19 +13,19 @@
 
 
 
-## Установка панели 3X-UI в Docker
+
 
 <details>
   <summary>Установка панели 3X-UI в Docker</summary>
 
 #### Usage
-
-1. Устанавливаем Docker:
+<details>
+<summary>1. Устанавливаем Docker:</summary>
 
    ```sh
    bash <(curl -sSL https://get.docker.com)
    ```
-
+</details>
 2. Клонируем Repository:
 
    ```sh
