@@ -8,8 +8,8 @@
 `2. Подготовка сервера:`
    - Установите Docker на ваш VPS, если он ещё не установлен.
    - Убедитесь, что ваш VPS имеет статический публичный IP-адрес.
-
-`3. Установка 3X-UI Без докера:`
+<details>
+<summary>3. Установка 3X-UI Без докера:</summary>
 ## Установка и обновление
 
 ```
@@ -24,7 +24,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh) v2.3.0
 ```
 ## Установка панели 3X-UI в Docker
-
+</details>
 <details>
   <summary>Полная установка в Docker</summary>
 
