@@ -1,4 +1,5 @@
 `Шаги по установке и настройке 3X-UI для сервера X-Ray с поддержкой VLESS и других протоколов:`
+![Alt text](https://disk.yandex.ru/i/umXIzP9ZqqurNQ "Optional title")
 <details>
 <summary>Подготовка</summary>
 
