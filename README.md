@@ -115,10 +115,11 @@
 Нажав на значок QR-кода, панель покажет QR-код, который можно отсканировать камерой в мобильных клиентах (v2rayNG или Nekobox на Android, Wings X/FoXray или Shadowrocket на iOS).
 
 ![image](https://github.com/sakol86/my_guides/assets/86907205/b7c12b66-4c50-461d-8149-8735db30720c)
-</details>
+
 
 
 
 `7. Мониторинг:`
 
    ![image](https://github.com/sakol86/my_guides/assets/86907205/7ca86bc6-8b39-4555-adf8-978ab3660de3)
+</details>
