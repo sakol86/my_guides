@@ -12,20 +12,7 @@
 </details>
 
 
-`3. Установка 3X-UI:`
-## Установка и обновление
 
-```
-bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
-```
-## Установка кастомной версии
-
-установка кастомной версии для примера используем
-, ver `v2.3.0`:
-
-```
-bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh) v2.3.0
-```
 ## Установка панели 3X-UI в Docker
 
 <details>
