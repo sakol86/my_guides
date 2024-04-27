@@ -88,34 +88,46 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 
 Логинимся под стандартными реквизитами admin/admin и видим панель управления:
 
-скрин vl1
+![image](https://github.com/sakol86/my_guides/assets/86907205/4b6ce615-f9ad-4eae-ba75-fbbe936597c7)
 
-4.1 Обязательно Переходим в Настройки панели и там:
+
+`4.1 Обязательно Переходим в Настройки панели и там:`
 
 - Изменить порт на котором работает панель со стандартного 2053 на какой-нибудь другой (лучше всего где-нибудь в верхнем конце диапазона, до 65535) ;
 
 Дополнительно Не обязательно:
 - Изменить корневой путь URL-адреса панели с / на что-то  /secretpanel/
 
-скрин vl2
+![image](https://github.com/sakol86/my_guides/assets/86907205/b82201b4-4576-4de3-be89-74a86fb31077)
+
 
 на вкладке "Настройки безопасности" изменить стандартный админский пароль на свой:
-скрин vl3
 
-5. Настройка маскировки(Vless):
-  скрин vl4
+![image](https://github.com/sakol86/my_guides/assets/86907205/b9fb3818-6bbb-4b7d-a680-784c5cc5b2f8)
+
+
+`5. Настройка маскировки(Vless):`
+
+  [скрин vl4](https://downloader.disk.yandex.ru/preview/c2e40ca6bfd6122a94164f4aa9584999f111b4a2bc2c1c11ba6af8645b281e85/662cf995/HlnUSckG2n_UPColvw_7xyoeQ_yhELpCREq4Nyw4cBUlqgXX41-O8WVMM5j_TBFBh1iMx91DkwNNQ414uxAsGw%3D%3D?uid=0&filename=vl4%20%282%29.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
 
  `Примечание` - любое название;
 `Протокол` - "vless",
 `Listening IP`  - оставляем пустым;
 "Порт" -  ставим 443;
 
-Добавление Пользователя:
-скрин vl5,6
-6. Подключение:
+`5.1 Добавление Пользователя:`
+
+![image](https://github.com/sakol86/my_guides/assets/86907205/dda5a4e6-16c4-40ac-bcce-71c7d72f6471)
+![image](https://github.com/sakol86/my_guides/assets/86907205/217e2e52-3375-43ee-bfbe-905fc2364f43)
+
+`6. Подключение:`
+
 Нажав на значок QR-кода, панель покажет QR-код, который можно отсканировать камерой в мобильных клиентах (v2rayNG или Nekobox на Android, Wings X/FoXray или Shadowrocket на iOS).
-   vl7
+
+![image](https://github.com/sakol86/my_guides/assets/86907205/b7c12b66-4c50-461d-8149-8735db30720c)
 
 
-7. Мониторинг:
-   скрин vl8
+
+`7. Мониторинг:`
+
+   ![image](https://github.com/sakol86/my_guides/assets/86907205/7ca86bc6-8b39-4555-adf8-978ab3660de3)
