@@ -18,14 +18,14 @@
 <details>
   <summary>Установка панели 3X-UI в Docker</summary>
 
-#### Usage
+#### Установки
 <details>
-<summary>1. Устанавливаем Docker:</summary>
+<summary>1. Устанавливаем Docker, если еще не установлен:</summary>
 
    ```sh
    bash <(curl -sSL https://get.docker.com)
    ```
-</details>
+
 2. Клонируем Repository:
 
    ```sh
@@ -39,8 +39,6 @@
    docker compose up -d
    ```
 
-   Или
-
    ```sh
    docker run -itd \
       -e XRAY_VMESS_AEAD_FORCED=false \
@@ -52,7 +50,7 @@
       ghcr.io/mhsanaei/3x-ui:latest
    ```
 
-Обновление до последней версии
+`Обновление до последней версии`
 
    ```sh
     cd 3x-ui
@@ -61,7 +59,8 @@
     docker compose up -d
    ```
 
-Удаление 3x-ui из docker 
+
+Удаление 3x-ui из docker
 
    ```sh
     docker stop 3x-ui
@@ -71,8 +70,8 @@
    ```
 
 </details>
-
-4. Настройка 3X-UI:
+<details>
+<summary> Настройка 3X-UI:</summary>
    осталось - настроить ее:
 
 Для 3X-UI идем браузером по адресу http://yourserverip:2053/panel/, где yourserverip - IP-адрес вашего сервера или доменное имя, если оно у вас есть и настроено (обратите внимание, протокол http://, а не https://).
@@ -116,6 +115,7 @@
 Нажав на значок QR-кода, панель покажет QR-код, который можно отсканировать камерой в мобильных клиентах (v2rayNG или Nekobox на Android, Wings X/FoXray или Shadowrocket на iOS).
 
 ![image](https://github.com/sakol86/my_guides/assets/86907205/b7c12b66-4c50-461d-8149-8735db30720c)
+</details>
 
 
 
