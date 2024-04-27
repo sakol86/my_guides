@@ -19,8 +19,7 @@
   <summary>Установка панели 3X-UI в Docker</summary>
 
 #### Установки
-<details>
-<summary>1. Устанавливаем Docker, если еще не установлен:</summary>
+
 
    ```sh
    bash <(curl -sSL https://get.docker.com)
