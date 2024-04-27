@@ -38,7 +38,7 @@
    ```sh
    docker compose up -d
    ```
-
+ИЛИ
    ```sh
    docker run -itd \
       -e XRAY_VMESS_AEAD_FORCED=false \
@@ -50,7 +50,7 @@
       ghcr.io/mhsanaei/3x-ui:latest
    ```
 
-`Обновление до последней версии`
+Обновление до последней версии
 
    ```sh
     cd 3x-ui
