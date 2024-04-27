@@ -113,7 +113,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 ![image](https://s113klg.storage.yandex.net/rdisk/1809ee80fcac56795f038d2972ddb01b3d68354706e013fa5d084eae981e8191/662d0a51/GVkrPdnEhCiKAChhJEdOdhRxTL8yKBy3baAXH3E1S9Bm0BGbXPjGN0IE9LhqYCG1EVuUhWbkj62JXEgcUpbxGQ==?uid=0&filename=vl5.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&fsize=248545&hid=95e83c7fcd2057259b08a00909d4a644&media_type=image&tknv=v2&etag=3b7c712644fb71b4eaceed65125bea6d&ts=61714c2aa7640&s=48fe8232e6d4e626daa266416ee730be4d720f5ee9bf38b8fdc059a834ce53e6&pb=U2FsdGVkX1-GVh5Ll8_Gbt_y7y8oV7xwgxfUM19VSu_6w3OAeKpym6ETwaA9AL-2dfYQBwGAzz9-R7uI0Lw5tqhrbOZfPcCdngje5-fjVik)
 6. Подключение:
 Нажав на значок QR-кода, панель покажет QR-код, который можно отсканировать камерой в мобильных клиентах (v2rayNG или Nekobox на Android, Wings X/FoXray или Shadowrocket на iOS).
-   vl7
+   ![image](https://s1027sas.storage.yandex.net/rdisk/61709901cc022546024d05d834153f03b79dcdaf86c7f5cced60e6a071339716/662d0d8a/GVkrPdnEhCiKAChhJEdOdkXPUNw7EbJ6SHOcAtHQ7SCmXyjlzp4nkwDYMw4t1LjzUPYI33uh3DwLxqxX_TN1XQ==?uid=0&filename=vl7.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&fsize=76884&hid=6d1e5583ff9799bd8b0b119675b0b127&media_type=image&tknv=v2&etag=17fa42b6a00651a03c3f225f3406a92f&ts=61714f3d6f680&s=1ab503ba73843ef8342cff9cb9fe6ea36169c3bc5573048e97f3dca5cfc29f3e&pb=U2FsdGVkX19D7O-fqpFU7GEMaqNzbExvp8YhPPKQo1b40Bi6qhBDffVjz9Ie5J7vy6KIseCNFF1o5j1b5g_vVKq1ab06_grQ2Yz_VnrLcHE)
 
 
 7. Мониторинг:
