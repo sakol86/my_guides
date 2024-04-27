@@ -25,9 +25,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 ## Установка панели 3X-UI в Docker
 
 <details>
-  <summary>Click for Docker details</summary>
-
-#### Usage
+  <summary>Полная установка в Docker</summary>
 
 1. Устанавливаем Docker:
 
@@ -80,8 +78,8 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
    ```
 
 </details>
-
-4. Настройка 3X-UI:
+<details>
+<summary>4. Настройка 3X-UI</summary>
    осталось - настроить ее:
 
 Для 3X-UI идем браузером по адресу http://yourserverip:2053/panel/, где yourserverip - IP-адрес вашего сервера или доменное имя, если оно у вас есть и настроено (обратите внимание, протокол http://, а не https://).
@@ -120,3 +118,4 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 
 7. Мониторинг:
    ![image](https://s96vla.storage.yandex.net/rdisk/e9e47e9e912908803da8b0bb10d789dd5cd370a8c3479591335f5ba7f45e9d29/662d09f5/GVkrPdnEhCiKAChhJEdOdlD9mlPDiNndmyPCbITeyjXbF7GXspKXyADEYPIwzkNDksOV3Rek_lUSHKEBdfTHZg==?uid=0&filename=vl8.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&fsize=59061&hid=79430a6623eec164a0635753095128be&media_type=image&tknv=v2&etag=a9e1557cbaeaa73ca3cbe8415879f2b9&ts=61714bd2ea740&s=cba236efda84016d59a3f2b60137aa928bc5c223407e31089834a3b7c75fb804&pb=U2FsdGVkX19NGZZb3xsF7LhCZQkrraReh-HHenng4cuIQLz8XfhH45uT-Hd1_wA7hG9Px0ZuzNRO_-SuY-vJMgMHpZnF7OK5qp4jvaUrm7c)
+</details>
