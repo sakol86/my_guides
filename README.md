@@ -96,7 +96,9 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 `Дополнительно Не обязательно:`
 - Изменить корневой путь URL-адреса панели с / на что-то  /secretpanel/
 
-![image]([https://s584vla.storage.yandex.net/rdisk/8612da373081f61d9d8e8484e6fd375eae9ddcd7e01ad598915dfd3f943d71e0/662d0afc/GVkrPdnEhCiKAChhJEdOdtgoI8k7kIDBSwMw81gReCyw7y_xps6W6wcRjcUy4NPKE2DB0eqngkUyn6yod2Jc8Q==?uid=0&filename=vl2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&fsize=52624&hid=2ac854353aa79edf352dedc17b29e060&media_type=image&tknv=v2&etag=fee7ce417878aaefb770b3b2a25420cd&ts=61714ccdbb700&s=c685332ab867b510aa66ec605e56dbb151e2e674a4d683f1970477cd60982685&pb=U2FsdGVkX1_LAxt06u9-2M_J2G3Bu3Q9UisBfsxpE0bBkwRJSxIfhUiDh2KBaqf06RsNST7J5JFHwwm1Hq4j-o2tVj23lS1-kymyGxOayvc](https://disk.yandex.ru/i/DXG8fw7JKGW1EQ))
+![image](https://github.com/sakol86/my_guides/assets/86907205/4009fbb6-7665-4d3f-b5ed-b28468c88308)
+)
+)
 
 на вкладке "Настройки безопасности" изменить стандартный админский пароль на свой:
 ![image](https://s639sas.storage.yandex.net/rdisk/7b9a06bb9d17b61c715eddd19a4e0d1559572af210bd247c49ced84d72ce081d/662d0ad0/GVkrPdnEhCiKAChhJEdOdjnqkCcG7domqygAmTM5vl3eKKbN2BInQa2UBRXGys9JVzkKl4Pe5zu-p0IwXl3Emg==?uid=0&filename=vl3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&fsize=38114&hid=de3137cb6450f9e9f90a9f72fef80d3e&media_type=image&tknv=v2&etag=0ba71e8157490c06b265e5f601b69a78&ts=61714ca3c5400&s=894545516a688de63c96b579f79727671055fe88fd2e7d70482ab0deb7581587&pb=U2FsdGVkX18QuM3APIBUZRZz3tWfV0oWjjdTZ1svye8JM1ILOVy7ZN1VF2lhL-HpcpQc930XQ1iaeNFFOkGQQfV1oIIIlk-_F7DuxhKA2os)
